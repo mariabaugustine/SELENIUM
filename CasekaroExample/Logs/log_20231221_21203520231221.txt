@@ -1,0 +1,3 @@
+2023-12-21 21:20:35.812 +05:30 [INF] Search button clicked
+2023-12-21 21:20:47.159 +05:30 [INF] Mobile name entered
+2023-12-21 21:20:47.743 +05:30 [INF] Mobile cover page loaded successfully
